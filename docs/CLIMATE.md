@@ -220,6 +220,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | [4100](../codes/climate/4100.json) | FTXS25CVMB<br>FTXS35CVMB<br>FTXS60BVMB<br>FVXS25BVMB                                                 | Xiaomi     |
 | [4100](../codes/climate/4100.json) | FTXS25CVMB<br>FTXS35CVMB<br>FTXS60BVMB<br>FVXS25BVMB                                                                                                           | Xiaomi     |
 | [5120](../codes/climate/5120.json) | ARC433B51                                                                                            | Broadlink  |
+| [5122](../codes/climate/5122.json) | ATXB50CV1B<br>GS02 (Remote)                                                                          | Broadlink  |
 
 #### Mitsubishi Electric
 | Code                               | Supported Models                                                                                     | Controller |
